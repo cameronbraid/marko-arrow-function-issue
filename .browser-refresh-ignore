@@ -1,0 +1,13 @@
+.git/
+assets/
+.awcache
+cache-tmp/
+coverage/
+dist/
+dist-old/
+*.marko.js
+node_modules/
+node_modules/.cache
+.nyc_output/
+yarn-error.log
+log
